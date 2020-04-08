@@ -1,4 +1,5 @@
 import openpyxl as op
+# 导入自定义模块
 import randomdemo as rd
 
 # 一个工作簿(workbook)在创建的时候同时至少也新建了一张工作表(worksheet)
